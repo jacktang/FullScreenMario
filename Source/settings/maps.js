@@ -1,5 +1,5 @@
 FullScreenMario.FullScreenMario.settings.maps = {
-    "mapDefault": "1-1",
+    "mapDefault": "consol",
     "locationDefault": "0",
     "groupTypes": ["Character", "Solid", "Scenery", "Text"],
     "requireEntrance": true,

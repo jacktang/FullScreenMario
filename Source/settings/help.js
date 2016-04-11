@@ -178,3 +178,4 @@ var FullScreenMario;
         "optionHelp": "To focus on a group, enter %c{GAME}.UsageHelper.displayHelpOption(\"<group-name>\");%c"
     };
 })(FullScreenMario || (FullScreenMario = {}));
+//# sourceMappingURL=help.js.map

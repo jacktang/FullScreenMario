@@ -8,10 +8,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "ssh://git@github.com:FullScreenShenanigans/FullScreenMario.git"
+        "url": "ssh://git@github.com:toschneck/FullScreenMario.git"
     },
     "bugs": {
-        "url": "https://github.com/FullScreenShenanigans/FullScreenMario/issues"
+        "url": "https://github.com/toschneck/FullScreenMario/issues"
     },
     "license": "MIT",
     "devDependencies": {

@@ -23,3 +23,4 @@ var FullScreenMario;
         }
     };
 })(FullScreenMario || (FullScreenMario = {}));
+//# sourceMappingURL=collisions.js.map

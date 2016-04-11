@@ -6,19 +6,28 @@ html, body {
 }
 
 body {
-    background: black;
+    /*
+    background: #0096d6;
+    */
+    background: #FDC300;
     color: #fafafa;
     overflow-x: hidden;
     overflow-y: scroll;
 }
 
 header {
-    height: 49px;
+    height: 80px;
     overflow: hidden;
     -ms-user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
     user-select: none;
+}
+
+header h1{
+    color: #0096d6;
+    margin: 0;
+    font-family: Georgia, serif;
 }
 
 section {
